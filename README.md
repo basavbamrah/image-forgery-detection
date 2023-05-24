@@ -1,5 +1,12 @@
 # **Image Forgery Detection**
 
+<!-- image for image forgery detection -->
+<p align="center">
+  <a href="https://belkasoft.com/forgery-detection">
+    <img src="https://belkasoft.com/images/forgery/kitten.png">
+</p>
+
+
 Image Forgery Detection Using JPEG compression and Convolutional Neural Network (CNN). This project aims to detect image forgery using JPEG compression and Convolutional Neural Network (CNN). The project is implemented in Python 3.9.13 and Tensorflow 2.10  . The dataset used is the [CASIA2](http://forensics.idealtest.org/CASIA2/) dataset.
 
 ## Table of Contents
