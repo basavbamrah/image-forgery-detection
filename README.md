@@ -39,7 +39,7 @@ Image Forgery Detection Using JPEG compression and Convolutional Neural Network 
 
 1. Clone the repo
    ```sh
-   git clone htts://github.com/username/repo.git
+   git clone https://github.com/basavbamrah/image-forgery-detection
    ```  
 2. Install Python packages
 3. Install Tensorflow
