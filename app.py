@@ -36,6 +36,8 @@ def pred(img):
     diff = np.array(difference(img).resize((128, 128))).flatten()/255.0
     diff = diff.reshape(-1, 128, 128, 3)
     pred= model.predict(diff)[0]
+    print("================= pred ==================")
+    print(pred)
     if pred[0] > pred[1]:
         return "Not Forged"
     else:
